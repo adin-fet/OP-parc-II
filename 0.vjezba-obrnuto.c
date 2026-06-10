@@ -1,6 +1,6 @@
 /*
 pr.) Napisati program koji uz koristenje fje void obrnitstr(char *)
-izvrsi inverziju redoslijeda slova u rijeci.
+izvrsi inverziju redoslijeda riječi u rečenici.
 */
 
 #include <stdio.h>
